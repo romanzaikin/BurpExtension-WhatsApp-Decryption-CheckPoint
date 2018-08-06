@@ -1,7 +1,7 @@
 # WhatsApp Protocol Decryption Burp Tool
 
 Screenshot:
-![alt tag](https://raw.githubusercontent.com/romanzaikin/Owasp-TOP-10-Training-Panel/master/tool.png)
+![alt tag](https://raw.githubusercontent.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint/master/tool.png)
 
 
 
