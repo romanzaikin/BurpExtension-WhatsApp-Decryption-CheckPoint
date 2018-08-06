@@ -50,7 +50,7 @@ Functionality
 
 1) Decrypt incoming data, you have to paste the data as base64 to the extension `ctrl+b`
 2) Encrypt incoming data, after you decrypt the data you can encrypt and put it back to burp by copy pase the base64 and `ctrl+shift+b`
-3) Decrypt outgoing data, to decrypt outgoing data you have to take it from AesCbcEncrypt function in list format.
+3) Decrypt outgoing data, to decrypt outgoing data you have to take it from `AesCbcEncrypt` function in list format.
 4) Encrypt outgoing data, after the extension encrypt the data back you have to put it back via the console.
 
 you can use the following helper function to do that:
