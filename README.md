@@ -12,14 +12,15 @@ The Extension:
 Made By:
 ---------------
 
-Dikla Barda - 
+__Dikla Barda__
 
 Linkedin - https://www.linkedin.com/in/diklabarda/ 
 
 
-Roman Zaikin - 
+__Roman Zaikin__
 
 Linkedin - https://www.linkedin.com/in/romanzaikin/
+
 Twitter -  https://twitter.com/R0m4nZ41k1n
 
 
