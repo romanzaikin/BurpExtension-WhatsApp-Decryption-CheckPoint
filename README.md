@@ -2,7 +2,7 @@
 
 This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol.
 
-Here is the link to our blog post: <will be published soon>
+Here is the link to our blog post: https://research.checkpoint.com/fakesapp-a-vulnerability-in-whatsapp/
 
 The Extension:
 
