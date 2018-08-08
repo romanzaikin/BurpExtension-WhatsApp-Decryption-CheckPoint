@@ -44,8 +44,8 @@ About the extension
 
 This extension allow you to view and manipulate the actual data that sent via whatsapp.
 
-1) First you have to run the parser.py file (which is in helper dir).
-2) Second you have to add the file burpWhatsapp.py to your burpsuit extensions.
+1) First you have to run the `parser.py` file (which is in helper dir).
+2) Second you have to add the file `burpWhatsapp.py` to your burpsuit extensions.
 
 
 Functionality
