@@ -35,7 +35,7 @@ Dependences:
 4) download Microsoft Visual C++ Compiler for Python 2.7 at https://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
 5) execute the command `pip install pycrypto`
 
-6) copy `stdint.h` to `C:\Users\Administrator\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\bin\amd64`
+6) copy `stdint.h` to `C:\Users\Administrator\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\include`
 7) execute the command `pip install curve25519-donna`
 
 
