@@ -28,15 +28,24 @@ Dependences:
 ---------------
 
 1) download python 2.7 at https://www.python.org/downloads/release/python-2715/
+
 2) download pip at https://pip.pypa.io/en/stable/installing/
 
 3) execute the command `pip install protobuf`
 
+3.1) for Linux/mac use `python2 -m pip install protobuf`
+
 4) download Microsoft Visual C++ Compiler for Python 2.7 at https://www.microsoft.com/en-us/download/confirmation.aspx?id=44266
+
 5) execute the command `pip install pycrypto`
 
+5.5) for Linux/mac use `python2 -m pip install pycrypto`
+
 6) copy `stdint.h` to `C:\Users\Administrator\AppData\Local\Programs\Common\Microsoft\Visual C++ for Python\9.0\VC\include`
+
 7) execute the command `pip install curve25519-donna`
+
+7.7) for Linux/mac use `python2 -m pip install curve25519-donna`
 
 
 About the extension
