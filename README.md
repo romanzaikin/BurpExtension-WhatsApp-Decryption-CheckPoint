@@ -67,7 +67,7 @@ Functionality
 
 you can use the following helper function to do that:
 
-```
+```js
 function str2unit8(str) {
   var buf = new ArrayBuffer(str.length);
   var bufView = new Uint8Array(buf);
