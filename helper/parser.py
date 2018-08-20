@@ -151,7 +151,7 @@ class WhatsAppWebClient(object):
         return node
 
     def encrypt_out_going(self, message, char_diff=0):
-        output = self.original[:17]
+        output = self.original[:18]
 
         stream = WhatsAppWriter(self.decrypted_content, char_diff)
         stream.write_node(message)
@@ -168,8 +168,8 @@ class WhatsAppWebClient(object):
         char_diff = len(output) - len(self.original)
         print "ENCRYPTED DIFF: {}".format(char_diff)
 
-        output[9] += char_diff
-        output[16] += char_diff
+        output[10] += char_diff
+        output[17] += char_diff
 
         return output
 
