@@ -24,7 +24,7 @@ Linkedin - https://www.linkedin.com/in/romanzaikin/
 Twitter -  https://twitter.com/R0m4nZ41k1n
 
 
-Dependences:
+Dependencies:
 ---------------
 
 1) Download Python 2.7 at https://www.python.org/downloads/release/python-2715/
