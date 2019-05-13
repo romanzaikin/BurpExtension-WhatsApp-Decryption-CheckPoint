@@ -23,6 +23,7 @@ Linkedin - https://www.linkedin.com/in/romanzaikin/
 
 Twitter -  https://twitter.com/R0m4nZ41k1n
 
+My Book: https://www.amazon.com/dp/1096435497
 
 Dependences:
 ---------------
