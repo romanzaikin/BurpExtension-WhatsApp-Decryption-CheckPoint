@@ -1,3 +1,0 @@
-curve25519-donna
-protobuf
-pycrypto
