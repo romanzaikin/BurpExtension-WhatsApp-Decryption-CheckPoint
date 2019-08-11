@@ -1,0 +1,1 @@
+["action", {"add": "relay"}, [{"message": {"conversation": "WhatsApp Protocol Decryption!"}, "participant": "97252XXXXXXX@s.whatsapp.net", "messageTimestamp": "1565193325", "key": {"fromMe": false, "remoteJid": "1310XXXXXXX-1565122127@g.us", "id": "78CECC5019E81B84B64ED2F6A57217AK"}, "status": "ERROR"}]]
