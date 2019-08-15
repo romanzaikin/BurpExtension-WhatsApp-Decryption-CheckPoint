@@ -40,9 +40,8 @@ About the extension
 
 This extension allow you to view and manipulate the actual data that sent via whatsapp.
 1) Open chrome developer tool and break on line '33479' and '5857' 
-2) continue the execution until you break on 5857 and take the keys.
-3) First, you have to run the decoder server which is `parser.py` (is in helper dir).
-4) Second, you have to add the file `burpWhatsapp.py` to your burpsuite extensions.
+2) First, you have to run the decoder server which is `parser.py` (is in helper dir).
+3) Second, you have to add the file `burpWhatsapp.py` to your burpsuite extensions.
 
 Functionality
 ---------------
