@@ -63,7 +63,7 @@ class WhatsAppReader:
             return self.readStringEx(self.read_byte())
 
         elif char_data == self.BINARY_20:
-            return self.readStringEx(self.readInt20())
+            return self.readStringEx(self.read_int20())
 
         elif char_data == self.BINARY_32:
             return self.readStringEx(self.read_int32())
@@ -216,7 +216,7 @@ class WhatsAppReader:
             content = self.read_bytes(self.read_byte())
 
         elif char_data == self.BINARY_20:
-            content = self.read_bytes(self.readInt20())
+            content = self.read_bytes(self.read_int20())
 
         elif char_data == self.BINARY_32:
             content = self.read_bytes(self.read_int32())
