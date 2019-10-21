@@ -1,6 +1,6 @@
 # WhatsApp Protocol Decryption Burp Tool
 
-This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol (This repository will be updated after BlackHat 2019)
+This tool was created during our research at Checkpoint Software Technologies on Whatsapp Protocol.
 
 Here is the link to our blog post: https://research.checkpoint.com/fakesapp-a-vulnerability-in-whatsapp/
 
@@ -8,6 +8,7 @@ The Extension:
 
 ![alt tag](https://raw.githubusercontent.com/romanzaikin/BurpExtension-WhatsApp-Decryption-CheckPoint/master/tool.png)
 
+Read my book to learn more about web hacking https://www.amazon.com/dp/1096435497
 
 Made By:
 ---------------
@@ -39,9 +40,11 @@ About the extension
 ---------------
 
 This extension allow you to view and manipulate the actual data that sent via whatsapp.
-1) Open chrome developer tool and break on line '33479' and '5857' 
-2) First, you have to run the decoder server which is `parser.py` (is in helper dir).
-3) Second, you have to add the file `burpWhatsapp.py` to your burpsuite extensions.
+1) Open chrome developer tool and break on keyPair: t, (line 3311) and wait until the keys will appear (5 minutes or so).
+2) Run the decoder server which is `parser.py` (in helper dir).
+3) Install `burpWhatsapp.py` to your burp suite extensions.
+4) Break get the keys from step 1.
+5) get the secret parameter from the websocket in burp websocket history.
 
 Functionality
 ---------------
